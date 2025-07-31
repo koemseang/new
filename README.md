@@ -66,3 +66,9 @@ for i in range(10):
 <h1>Hello</h1>
 <p>ey k ey tv</p>
 ```
+
+``bash
+npm i express
+pip install cv2
+composer install 
+```

@@ -44,3 +44,10 @@ normal text
 3. List 3 
    1. sun 1
    2. sun 2
+
+## Image
+![Dashboard](flower.jpg)
+
+## Link 
+CSS Framework [Bootstrap]
+(https://getbootstrap.com/)

@@ -67,7 +67,7 @@ for i in range(10):
 <p>ey k ey tv</p>
 ```
 
-``bash
+```bash
 npm i express
 pip install cv2
 composer install 

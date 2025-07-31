@@ -75,3 +75,10 @@ composer install
 ## Button
 <!-- <a href="https://getbootstrap.com/" target="_blank"> Click Me</a> -->
 <a href="https://getbootstrap.com/" target="_blank"> Click Me</a>
+
+## Badge
+[![app](https://img.shields.io/badge/button-blue)] (https://getbootstrap.com)
+
+![app](https://img.shields.io/badge/button-click-blue)
+
+![app](https://img.shields.io/badge/button_of-click-blue)

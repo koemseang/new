@@ -51,3 +51,18 @@ normal text
 ## Link 
 CSS Framework [Bootstrap]
 (https://getbootstrap.com/)
+
+
+## Singlie line code
+`print("Hello word")`
+
+## multiple line
+```python
+for i in range(10):
+    print(i)
+
+```
+```html
+<h1>Hello</h1>
+<p>ey k ey tv</p>
+```
